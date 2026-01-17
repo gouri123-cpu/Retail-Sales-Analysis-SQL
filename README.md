@@ -10,7 +10,7 @@ An end-to-end SQL analytics project focused on exploring, cleaning, and analyzin
 - Answer business-focused questions related to sales, customers, and trends  
 - Extract meaningful insights to support decision-making  
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - SQL (Joins, Aggregations, Window Functions, CTEs)  
 - Database Design  
 - Data Cleaning & Validation  

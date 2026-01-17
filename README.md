@@ -1,52 +1,46 @@
-Retail Sales Analysis – SQL Project
-Overview
+# 🛒 Retail Sales Analysis – SQL Project
 
-An end-to-end SQL analytics project focused on exploring, cleaning, and analyzing retail sales data to answer real business questions and extract actionable insights.
+##  Overview
+An end-to-end SQL analytics project focused on exploring, cleaning, and analyzing retail sales data to answer real-world business questions and generate actionable insights. This project demonstrates practical SQL skills commonly required for Data Analyst roles.
 
-Key Objectives
+##  Key Objectives
+- Design and manage a retail sales database  
+- Clean raw data by identifying and removing null or invalid records  
+- Perform Exploratory Data Analysis (EDA) using SQL  
+- Answer business-focused questions related to sales, customers, and trends  
+- Extract meaningful insights to support decision-making  
 
-Created and managed a retail sales database
+## 🛠 Tools & Skills Used
+- SQL (Joins, Aggregations, Window Functions, CTEs)  
+- Database Design  
+- Data Cleaning & Validation  
+- Business Analysis & Reporting  
 
-Cleaned data by identifying and removing null records
+##  Key Analysis Performed
+- Sales analysis by date, category, and customer  
+- High-value transaction identification  
+- Monthly and yearly sales trend analysis  
+- Top customers and category-wise performance  
+- Order distribution by time shifts:
+  - Morning  
+  - Afternoon  
+  - Evening  
 
-Performed EDA using SQL to understand sales patterns
+##  Key Insights
+- Identified top-performing categories and high-value customers  
+- Discovered peak sales periods and seasonal trends  
+- Highlighted high-revenue transactions  
+- Analyzed customer buying behavior and demographics  
 
-Answered business questions on revenue, customers, categories, and trends
+##  How to Run
+1. Create the database and tables  
+2. Load the dataset  
+3. Execute the SQL queries for analysis  
 
-Tools & Skills
+##  Project Highlights
+- Real-world retail business use case  
+- Strong focus on data cleaning and EDA  
+- Business-driven insights using SQL  
+- Ideal for Data Analyst portfolio projects  
 
-SQL (Joins, Aggregations, Window Functions, CTEs)
-
-Database Design & Data Cleaning
-
-Business Analysis & Reporting
-
-Key Analysis Performed
-
-Sales by date, category, and customer
-
-High-value transactions identification
-
-Monthly and yearly sales trends
-
-Top customers and category-wise performance
-
-Order distribution by time shifts (Morning/Afternoon/Evening)
-
-Key Insights
-
-Identified top-performing categories and customers
-
-Discovered peak sales periods and high-value orders
-
-Analyzed customer demographics and buying behavior
-
-How to Run
-
-Create the database and table
-
-Load the dataset
-
-Execute SQL queries for analysis
-
-📌 This project demonstrates practical SQL skills required for Data Analyst roles, including data cleaning, EDA, and business-driven analysis.
+ This project showcases hands-on SQL expertise in data preparation, exploratory analysis, and business insight generation.
